@@ -5,6 +5,8 @@
 -   Bonilla Avilés, David Alejandro - BA181927 | G01T
 -   Cruz González, José Roberto - CG181933 | G01T
 -   Garay Alvarado, Bryan Walberto - GA181935 | G01T
+-   Pacheca Guerrero, Gabriela Saraí | PG180134
+-   García Lopez, Francisca Abigaíl | GL180669
 
 ## Diseño UI
 
