@@ -2,19 +2,17 @@
 
 ## Integrantes
 
--   Bonilla Avilés, David Alejandro - BA181927 | G01T
--   Cruz González, José Roberto - CG181933 | G01T
--   Garay Alvarado, Bryan Walberto - GA181935 | G01T
--   Pacheca Guerrero, Gabriela Saraí | PG180134
--   García Lopez, Francisca Abigaíl | GL180669
+-   Bonilla Avilés, David Alejandro - BA181927 | G01T -> Usuario Gitlab: David-503
+-   Cruz González, José Roberto - CG181933 | G01T -> Usuario Gitlab: tito027
+-   Garay Alvarado, Bryan Walberto - GA181935 | G01T -> Usuario Gitlab: Garay01
+-   Pacheco Guerrero, Gabriela Saraí | PG180134 -> Usuario Gitlab: GabrielaPacheco
+-   García Lopez, Francisca Abigaíl | GL180669 -> Usuario Gitlab: Aby3005
 
 ## Diseño UI
 
 El proyecto tiene sus diseños y pantallas echas previamente en Figma, puede acceder a este apartado por medio del siguiente enlace.
 
-[Ver diseño de las pantallas (Mockups) Figma -> Prototipo 📱](https://www.figma.com/proto/An2nYNH1XZ1NRKS2ncoCYL/StockApp?page-id=1%3A2&node-id=1%3A2&viewport=367%2C48%2C0.19&scaling=min-zoom)
-
-[Ver diseño de las pantallas (Mockups) Figma -> Editable 🎨](https://www.figma.com/file/An2nYNH1XZ1NRKS2ncoCYL/StockApp?node-id=1%3A2)
+[Ver diseño de las pantallas (Mockups) Figma -> Prototipo 📱](https://www.figma.com/file/gIzYi0L3yQIbl7uYXC25mL?node-id=53296:27471&comments-enabled=1&viewer=1&locale=en)
 
 ## Descripción del proyecto
 
