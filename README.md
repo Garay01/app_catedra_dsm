@@ -2,11 +2,11 @@
 
 ## Integrantes
 
--   Bonilla Avilés, David Alejandro - BA181927 | G01T
--   Cruz González, José Roberto - CG181933 | G01T
--   Garay Alvarado, Bryan Walberto - GA181935 | G01T
--   Pacheco Guerrero, Gabriela Saraí | PG180134
--   García Lopez, Francisca Abigaíl | GL180669
+-   Bonilla Avilés, David Alejandro - BA181927 | G01T -> Usuario Gitlab: David-503
+-   Cruz González, José Roberto - CG181933 | G01T -> Usuario Gitlab: tito027
+-   Garay Alvarado, Bryan Walberto - GA181935 | G01T -> Usuario Gitlab: Garay01
+-   Pacheco Guerrero, Gabriela Saraí | PG180134 -> Usuario Gitlab: GabrielaPacheco
+-   García Lopez, Francisca Abigaíl | GL180669 -> Usuario Gitlab: Aby3005
 
 ## Diseño UI
 
