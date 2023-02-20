@@ -34,8 +34,8 @@ Donde se pueden destacar los siguientes roles:
 -   **Product Owner**: Doctores guía de clínicas prenatales
 -   **Developer**: David Bonilla
 -   **Developer**: José Cruz
--   **Developer**: Francisca Abigaíl
--   **Developer**: José Cruz
+-   **Developer**: Abigail García
+-   **Developer**: Gabriela Pacheco 
 
 [Enlace al grupo de Trello ->](https://trello.com/b/OteVO5T0/clinica)
 
